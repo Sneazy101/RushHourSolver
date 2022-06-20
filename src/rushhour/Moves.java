@@ -10,7 +10,6 @@ public class Moves {
         movedFrom = (short)i;
         movedTo = (short)j;
         parentMove = null;
-
     }
 
     public Moves getCurrentMove(){
